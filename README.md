@@ -8,8 +8,11 @@
 ---
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=RafaelRd11&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelRd11&layout=compact&langs_count=7&theme=radical"/>
+
+[![Stats do Rafael](https://github-readme-stats.vercel.app/api?username=RafaelRd11&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelRd11&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
 
 ---
@@ -32,11 +35,11 @@
 ### 📫 Contato
 
 <div align="center">
-  <a href="LINK_DO_SEU_LINKEDIN_AQUI" target="_blank">
+  <a href="https://www.linkedin.com/in/rafael-rocha-dias-2ba308242/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a> 
   
-  <a href="mailto:SEU_EMAIL_AQUI@GMAIL.COM">
+  <a href="mailto:rafaelrd11z@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </div>
